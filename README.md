@@ -1,4 +1,4 @@
-＃KotlinReactLibrarySample
+KotlinReactLibrarySample
 
 TypeScriptからKotlin Coroutinesを直接扱えない問題を解決する手段です。
 Kotlin Multiplatformのアプリケーション層のコードを、Kotlin/JSのReact HooksでラップしTypeScriptから使えるようにしてます。
